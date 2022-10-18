@@ -1,7 +1,7 @@
 # Landing Page
 Feito em HTML5 e CSS3
 
-#Créditos (Imagens Utilizadas):
+#Créditos (Imagens Utilizadas): <br/>
 Christina Morillo (https://www.pexels.com/pt-br/foto/pessoa-que-usa-silver-macbook-pro-1181467/)  <br/>
 Markus Spiske (https://www.pexels.com/pt-br/foto/codigos-na-lente-tilt-shift-2004161/) <br/>
 Vlad Bagacian https://www.pexels.com/pt-br/foto/pessoa-que-trabalha-remotamente-3987066/) <br/>
